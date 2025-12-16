@@ -2,7 +2,7 @@
 
 - Lembre-se de delegar permissões para o seu script com `chmod`
   ```shell
-  chmod +x ~/Scripts/clean_downloads.sh
+  chmod +x ~/Scripts/Scripts-No-Linux/clean_downloads.sh
   ```
 
 
